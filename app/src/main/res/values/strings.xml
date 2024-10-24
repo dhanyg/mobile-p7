@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Profil Yoga</string>
+    <string name="label_nama">Nama</string>
+    <string name="label_alamat">Alamat</string>
+    <string name="value_nama">Ramadhan Yoga Pratama</string>
+    <string name="value_alamat">Jalan Balirejo No. 40 Yogyakarta, 55165.</string>
+</resources>
